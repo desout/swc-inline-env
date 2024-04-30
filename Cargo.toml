@@ -4,7 +4,7 @@ description = "SWC plugin for https://www.npmjs.com/package/babel-plugin-transfo
 
 name = "swc_plugin_inline_env"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 include = ["Cargo.toml", "src/**/*.rs"]
 repository = "https://github.com/desout/swc-inline-env"
 
